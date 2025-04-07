@@ -63,12 +63,6 @@ Follow these steps to get the Recipe Platform up and running on your local machi
     yarn install
     ```
 
-3.  **Set up environment variables:**
-    Create a `.env` file in the root directory and add necessary environment variables:
-    ```
-    REACT_APP_API_URL=http://localhost:8000/api
-    REACT_APP_STORAGE_KEY=recipe_platform_data
-    ```
 
 ## ▶️ Running the Application
 
